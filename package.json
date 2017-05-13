@@ -1,5 +1,5 @@
 {
-  "name": "platzom",
+  "name": "platzom.js",
   "version": "0.1.0",
   "description": "Proyecto del curso de Fundamentos de JavaScript. Traduce palabras a un idioma inventado operando con strings.",
   "main": "dist/src/platzom.js",
