@@ -1,0 +1,31 @@
+{
+  "name": "platzom",
+  "version": "0.1.0",
+  "description": "Proyecto del curso de Fundamentos de JavaScript. Traduce palabras a un idioma inventado operando con strings.",
+  "main": "dist/src/platzom.js",
+  "scripts": {
+    "build": "babel src/platzom.js -d dist",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrf1989/platzom.git"
+  },
+  "keywords": [
+    "platzom",
+    "platzi",
+    "javascript"
+  ],
+  "author": "Mario Ruano <mr@marioruano.com> (https://marioruano.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mrf1989/platzom/issues"
+  },
+  "homepage": "https://github.com/mrf1989/platzom#readme",
+  "devDependencies": {
+    "babel-cli": "^6.24.1",
+    "babel-preset-env": "^1.4.0",
+    "chai": "^3.5.0",
+    "mocha": "^3.3.0"
+  }
+}
