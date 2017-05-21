@@ -1,6 +1,6 @@
-# Platzom
+# Platzom.js
 
-Platzom es un idioma inventado para el [Curso de Fundamentos de JavaScript](https://platzi.com/js).
+**Platzom.js** es un idioma inventado para el [Curso de Fundamentos de JavaScript](https://platzi.com/js).
 
 ## Descripción del idioma
 
@@ -14,13 +14,13 @@ El idioma Platzom sigue las siguientes normas:
 ## Instalación
 
 ```
-npm install platzom
+npm install platzom.js
 ```
 
 ## Uso
 
 ```
-import platzom from 'platzom'
+import platzom from 'platzom.js'
 
 platzom('Programar')  // Program
 platzom('zorro')      // zorrpe
